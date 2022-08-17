@@ -8,4 +8,6 @@ Formação: Certified Tech Developer (Full Stack)
 
 Instituição: Digital House
 
-Bimestre: 1
+Bimestre: 2
+
+<img src="https://yt3.ggpht.com/eA60GfpYYFchjsSKm0xrJL5Q_GrZouMemaXGppzBMML4iziX4TmRquRB4zlQN5hhqH_3-RVsAA=s900-c-k-c0x00ffffff-no-rj" width="200" style="max-width: 100%;">
